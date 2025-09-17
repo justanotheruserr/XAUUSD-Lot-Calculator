@@ -35,7 +35,8 @@ A clean, web-based calculator for **gold trading (XAUUSD)**. It helps traders qu
 3. Start calculating your trades instantly.
 
 ```bash
-git clone https://github.com/yourusername/xauusd-lot-rr-calculator.git
+https://github.com/yourusername/xauusd-lot-rr-calculator.git
+git clone https://github.com/justanotheruserr/XAUUSD-Lot-Calculator.git
 cd xauusd-lot-rr-calculator
 ```
 
